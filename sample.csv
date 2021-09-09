@@ -1,3 +1,4 @@
+id,name,description,price_m,price_l,image_path,deleted
 1,toy1,おもちゃ1です,1490,2000,1.jpg,false
 2,toy2,おもちゃ2です,2980,4500,2.jpg,false
 3,toy3,おもちゃ3です,546,1050,3.jpg,false
