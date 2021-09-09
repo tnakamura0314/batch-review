@@ -15,11 +15,11 @@ public class CsvReadStream {
             String line;
             int index = 0;
             while ((line = reader.readLine()) != null) {
-                if (index > 0) {
+                if (index >= 0) {
                 	
                 	//Stringの「split」メソッドでカンマ区切りの文字列を分割 → Stringの配列に代入
                     String[] data = line.split(",");
-                    if (data.length > 3) {
+                    if (data.length > 5) {
                         // 読み込んだCSVファイルの内容を出力
                         System.out.print(data[0] + ",");
                         System.out.print(data[1] + ",");
