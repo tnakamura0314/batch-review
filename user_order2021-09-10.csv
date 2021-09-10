@@ -1,0 +1,4 @@
+id,name,email,password,zipcode,address,telephone,id,user_id,status,total_price,order_date,destination_name,destination_email,destination_zipcode,destination_address,destination_tel,delivery_time,payment_method
+1,テストユーザ,test@test.co.jp,$2a$10$Utoo6nr3XIFEh4xOZ9Zr1.n/PtEYBb8HhlLDDklaJwsj.T3uux4kq,1111111,テスト住所,テスト電話番号,0,0,0,0,null,null,null,null,null,null,null,0
+2,名無し,test@test.com,$2a$10$eD3dT3D46LJOQhSho2HcvO6Tyj2fE9JuGhxEUPxkxhRIIJISJ0MMW,178-0063,東京都練馬区東大泉,000-0000-0000,1,2,2,7540,2021-09-09,名無し,test@test.com,178-0063,東京都練馬区東大泉,000-0000-0000,2021-09-16 10:00:00.0,2
+2,名無し,test@test.com,$2a$10$eD3dT3D46LJOQhSho2HcvO6Tyj2fE9JuGhxEUPxkxhRIIJISJ0MMW,178-0063,東京都練馬区東大泉,000-0000-0000,2,2,0,5400,null,null,null,null,null,null,null,0
