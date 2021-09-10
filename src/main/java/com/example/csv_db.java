@@ -8,6 +8,13 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
+/**
+ * 参考にした記事.<br>
+ * https://teratail.com/questions/114495
+ * 
+ * @author nakamuratomoya
+ *
+ */
 public class csv_db {
 
 	public static void main(String[] args) {
