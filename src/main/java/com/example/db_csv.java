@@ -9,6 +9,13 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 参考にした記事.<br>
+ * https://techacademy.jp/magazine/22226
+ * 
+ * @author nakamuratomoya
+ *
+ */
 public class db_csv {
 
 	// カンマ
